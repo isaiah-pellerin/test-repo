@@ -1,3 +1,3 @@
 # test-repo
-Author: Isaiah Pellerin__
+Author: Isaiah Pellerin <br>
 Class: CS202
